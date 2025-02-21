@@ -1,1 +1,0 @@
-# Docker-voting-app
